@@ -12,6 +12,7 @@ namespace PIS1
             Console.WriteLine("Hello world! :)");
             Console.WriteLine("Andrea i Nikola <3 :D :D");
             Console.WriteLine("Ej mala podero bi te ko budala 100€ !");
+            Console.WriteLine("Lokalni edit");
             Console.Read();
         }
     }
